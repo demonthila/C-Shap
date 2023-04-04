@@ -1,0 +1,15 @@
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\datatypes\bin\Debug\net7.0\datatypes.exe
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\datatypes\bin\Debug\net7.0\datatypes.deps.json
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\datatypes\bin\Debug\net7.0\datatypes.runtimeconfig.json
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\datatypes\bin\Debug\net7.0\datatypes.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\datatypes\bin\Debug\net7.0\datatypes.pdb
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\datatypes\obj\Debug\net7.0\datatypes.csproj.AssemblyReference.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\datatypes\obj\Debug\net7.0\datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\datatypes\obj\Debug\net7.0\datatypes.AssemblyInfoInputs.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\datatypes\obj\Debug\net7.0\datatypes.AssemblyInfo.cs
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\datatypes\obj\Debug\net7.0\datatypes.csproj.CoreCompileInputs.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\datatypes\obj\Debug\net7.0\datatypes.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\datatypes\obj\Debug\net7.0\refint\datatypes.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\datatypes\obj\Debug\net7.0\datatypes.pdb
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\datatypes\obj\Debug\net7.0\datatypes.genruntimeconfig.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\datatypes\obj\Debug\net7.0\ref\datatypes.dll

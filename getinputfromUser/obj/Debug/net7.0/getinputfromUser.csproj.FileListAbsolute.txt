@@ -1,0 +1,15 @@
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\getinputfromUser\bin\Debug\net7.0\getinputfromUser.exe
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\getinputfromUser\bin\Debug\net7.0\getinputfromUser.deps.json
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\getinputfromUser\bin\Debug\net7.0\getinputfromUser.runtimeconfig.json
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\getinputfromUser\bin\Debug\net7.0\getinputfromUser.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\getinputfromUser\bin\Debug\net7.0\getinputfromUser.pdb
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\getinputfromUser\obj\Debug\net7.0\getinputfromUser.csproj.AssemblyReference.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\getinputfromUser\obj\Debug\net7.0\getinputfromUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\getinputfromUser\obj\Debug\net7.0\getinputfromUser.AssemblyInfoInputs.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\getinputfromUser\obj\Debug\net7.0\getinputfromUser.AssemblyInfo.cs
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\getinputfromUser\obj\Debug\net7.0\getinputfromUser.csproj.CoreCompileInputs.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\getinputfromUser\obj\Debug\net7.0\getinputfromUser.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\getinputfromUser\obj\Debug\net7.0\refint\getinputfromUser.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\getinputfromUser\obj\Debug\net7.0\getinputfromUser.pdb
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\getinputfromUser\obj\Debug\net7.0\getinputfromUser.genruntimeconfig.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\getinputfromUser\obj\Debug\net7.0\ref\getinputfromUser.dll

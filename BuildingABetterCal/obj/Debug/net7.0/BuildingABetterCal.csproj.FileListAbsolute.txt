@@ -1,0 +1,15 @@
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingABetterCal\bin\Debug\net7.0\BuildingABetterCal.exe
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingABetterCal\bin\Debug\net7.0\BuildingABetterCal.deps.json
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingABetterCal\bin\Debug\net7.0\BuildingABetterCal.runtimeconfig.json
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingABetterCal\bin\Debug\net7.0\BuildingABetterCal.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingABetterCal\bin\Debug\net7.0\BuildingABetterCal.pdb
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingABetterCal\obj\Debug\net7.0\BuildingABetterCal.csproj.AssemblyReference.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingABetterCal\obj\Debug\net7.0\BuildingABetterCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingABetterCal\obj\Debug\net7.0\BuildingABetterCal.AssemblyInfoInputs.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingABetterCal\obj\Debug\net7.0\BuildingABetterCal.AssemblyInfo.cs
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingABetterCal\obj\Debug\net7.0\BuildingABetterCal.csproj.CoreCompileInputs.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingABetterCal\obj\Debug\net7.0\BuildingABetterCal.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingABetterCal\obj\Debug\net7.0\refint\BuildingABetterCal.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingABetterCal\obj\Debug\net7.0\BuildingABetterCal.pdb
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingABetterCal\obj\Debug\net7.0\BuildingABetterCal.genruntimeconfig.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingABetterCal\obj\Debug\net7.0\ref\BuildingABetterCal.dll

@@ -1,0 +1,15 @@
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\Arrarys\bin\Debug\net7.0\Arrarys.exe
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\Arrarys\bin\Debug\net7.0\Arrarys.deps.json
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\Arrarys\bin\Debug\net7.0\Arrarys.runtimeconfig.json
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\Arrarys\bin\Debug\net7.0\Arrarys.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\Arrarys\bin\Debug\net7.0\Arrarys.pdb
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\Arrarys\obj\Debug\net7.0\Arrarys.csproj.AssemblyReference.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\Arrarys\obj\Debug\net7.0\Arrarys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\Arrarys\obj\Debug\net7.0\Arrarys.AssemblyInfoInputs.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\Arrarys\obj\Debug\net7.0\Arrarys.AssemblyInfo.cs
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\Arrarys\obj\Debug\net7.0\Arrarys.csproj.CoreCompileInputs.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\Arrarys\obj\Debug\net7.0\Arrarys.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\Arrarys\obj\Debug\net7.0\refint\Arrarys.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\Arrarys\obj\Debug\net7.0\Arrarys.pdb
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\Arrarys\obj\Debug\net7.0\Arrarys.genruntimeconfig.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\Arrarys\obj\Debug\net7.0\ref\Arrarys.dll

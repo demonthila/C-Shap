@@ -1,0 +1,5 @@
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\MoreBoutIfStaement\obj\Debug\net7.0\MoreBoutIfStaement.csproj.AssemblyReference.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\MoreBoutIfStaement\obj\Debug\net7.0\MoreBoutIfStaement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\MoreBoutIfStaement\obj\Debug\net7.0\MoreBoutIfStaement.AssemblyInfoInputs.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\MoreBoutIfStaement\obj\Debug\net7.0\MoreBoutIfStaement.AssemblyInfo.cs
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\MoreBoutIfStaement\obj\Debug\net7.0\MoreBoutIfStaement.csproj.CoreCompileInputs.cache

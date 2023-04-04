@@ -1,0 +1,15 @@
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BasicCal\bin\Debug\net7.0\BasicCal.exe
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BasicCal\bin\Debug\net7.0\BasicCal.deps.json
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BasicCal\bin\Debug\net7.0\BasicCal.runtimeconfig.json
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BasicCal\bin\Debug\net7.0\BasicCal.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BasicCal\bin\Debug\net7.0\BasicCal.pdb
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BasicCal\obj\Debug\net7.0\BasicCal.csproj.AssemblyReference.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BasicCal\obj\Debug\net7.0\BasicCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BasicCal\obj\Debug\net7.0\BasicCal.AssemblyInfoInputs.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BasicCal\obj\Debug\net7.0\BasicCal.AssemblyInfo.cs
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BasicCal\obj\Debug\net7.0\BasicCal.csproj.CoreCompileInputs.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BasicCal\obj\Debug\net7.0\BasicCal.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BasicCal\obj\Debug\net7.0\refint\BasicCal.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BasicCal\obj\Debug\net7.0\BasicCal.pdb
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BasicCal\obj\Debug\net7.0\BasicCal.genruntimeconfig.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BasicCal\obj\Debug\net7.0\ref\BasicCal.dll

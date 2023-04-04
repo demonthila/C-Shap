@@ -1,0 +1,15 @@
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingAMadLib\bin\Debug\net7.0\BuildingAMadLib.exe
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingAMadLib\bin\Debug\net7.0\BuildingAMadLib.deps.json
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingAMadLib\bin\Debug\net7.0\BuildingAMadLib.runtimeconfig.json
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingAMadLib\bin\Debug\net7.0\BuildingAMadLib.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingAMadLib\bin\Debug\net7.0\BuildingAMadLib.pdb
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingAMadLib\obj\Debug\net7.0\BuildingAMadLib.csproj.AssemblyReference.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingAMadLib\obj\Debug\net7.0\BuildingAMadLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingAMadLib\obj\Debug\net7.0\BuildingAMadLib.AssemblyInfoInputs.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingAMadLib\obj\Debug\net7.0\BuildingAMadLib.AssemblyInfo.cs
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingAMadLib\obj\Debug\net7.0\BuildingAMadLib.csproj.CoreCompileInputs.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingAMadLib\obj\Debug\net7.0\BuildingAMadLib.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingAMadLib\obj\Debug\net7.0\refint\BuildingAMadLib.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingAMadLib\obj\Debug\net7.0\BuildingAMadLib.pdb
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingAMadLib\obj\Debug\net7.0\BuildingAMadLib.genruntimeconfig.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\BuildingAMadLib\obj\Debug\net7.0\ref\BuildingAMadLib.dll

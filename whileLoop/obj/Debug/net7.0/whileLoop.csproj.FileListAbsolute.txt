@@ -1,0 +1,15 @@
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\whileLoop\bin\Debug\net7.0\whileLoop.exe
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\whileLoop\bin\Debug\net7.0\whileLoop.deps.json
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\whileLoop\bin\Debug\net7.0\whileLoop.runtimeconfig.json
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\whileLoop\bin\Debug\net7.0\whileLoop.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\whileLoop\bin\Debug\net7.0\whileLoop.pdb
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\whileLoop\obj\Debug\net7.0\whileLoop.csproj.AssemblyReference.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\whileLoop\obj\Debug\net7.0\whileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\whileLoop\obj\Debug\net7.0\whileLoop.AssemblyInfoInputs.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\whileLoop\obj\Debug\net7.0\whileLoop.AssemblyInfo.cs
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\whileLoop\obj\Debug\net7.0\whileLoop.csproj.CoreCompileInputs.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\whileLoop\obj\Debug\net7.0\whileLoop.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\whileLoop\obj\Debug\net7.0\refint\whileLoop.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\whileLoop\obj\Debug\net7.0\whileLoop.pdb
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\whileLoop\obj\Debug\net7.0\whileLoop.genruntimeconfig.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\whileLoop\obj\Debug\net7.0\ref\whileLoop.dll

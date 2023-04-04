@@ -1,0 +1,15 @@
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\WorkingWthNumbers\bin\Debug\net7.0\WorkingWthNumbers.exe
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\WorkingWthNumbers\bin\Debug\net7.0\WorkingWthNumbers.deps.json
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\WorkingWthNumbers\bin\Debug\net7.0\WorkingWthNumbers.runtimeconfig.json
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\WorkingWthNumbers\bin\Debug\net7.0\WorkingWthNumbers.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\WorkingWthNumbers\bin\Debug\net7.0\WorkingWthNumbers.pdb
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\WorkingWthNumbers\obj\Debug\net7.0\WorkingWthNumbers.csproj.AssemblyReference.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\WorkingWthNumbers\obj\Debug\net7.0\WorkingWthNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\WorkingWthNumbers\obj\Debug\net7.0\WorkingWthNumbers.AssemblyInfoInputs.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\WorkingWthNumbers\obj\Debug\net7.0\WorkingWthNumbers.AssemblyInfo.cs
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\WorkingWthNumbers\obj\Debug\net7.0\WorkingWthNumbers.csproj.CoreCompileInputs.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\WorkingWthNumbers\obj\Debug\net7.0\WorkingWthNumbers.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\WorkingWthNumbers\obj\Debug\net7.0\refint\WorkingWthNumbers.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\WorkingWthNumbers\obj\Debug\net7.0\WorkingWthNumbers.pdb
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\WorkingWthNumbers\obj\Debug\net7.0\WorkingWthNumbers.genruntimeconfig.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\WorkingWthNumbers\obj\Debug\net7.0\ref\WorkingWthNumbers.dll

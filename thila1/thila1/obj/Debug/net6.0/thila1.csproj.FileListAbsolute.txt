@@ -1,0 +1,15 @@
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\thila1\thila1\bin\Debug\net6.0\thila1.exe
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\thila1\thila1\bin\Debug\net6.0\thila1.deps.json
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\thila1\thila1\bin\Debug\net6.0\thila1.runtimeconfig.json
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\thila1\thila1\bin\Debug\net6.0\thila1.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\thila1\thila1\bin\Debug\net6.0\thila1.pdb
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\thila1\thila1\obj\Debug\net6.0\thila1.csproj.AssemblyReference.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\thila1\thila1\obj\Debug\net6.0\thila1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\thila1\thila1\obj\Debug\net6.0\thila1.AssemblyInfoInputs.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\thila1\thila1\obj\Debug\net6.0\thila1.AssemblyInfo.cs
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\thila1\thila1\obj\Debug\net6.0\thila1.csproj.CoreCompileInputs.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\thila1\thila1\obj\Debug\net6.0\thila1.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\thila1\thila1\obj\Debug\net6.0\refint\thila1.dll
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\thila1\thila1\obj\Debug\net6.0\thila1.pdb
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\thila1\thila1\obj\Debug\net6.0\thila1.genruntimeconfig.cache
+C:\Users\demon\OneDrive\Desktop\NSBM\2rd Year\2rd sem\C#\thila1\thila1\obj\Debug\net6.0\ref\thila1.dll
